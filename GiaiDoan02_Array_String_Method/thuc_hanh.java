@@ -1,3 +1,5 @@
+package GiaiDoan02_Array_String_Method;
+
 import java.util.Arrays;
 import java.util.Scanner;
 

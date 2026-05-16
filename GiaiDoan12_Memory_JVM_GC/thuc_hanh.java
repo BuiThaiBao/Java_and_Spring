@@ -1,3 +1,5 @@
+package GiaiDoan12_Memory_JVM_GC;
+
 /**
  * ============================================================
  * GIAI ĐOẠN 12: MEMORY, JVM, GARBAGE COLLECTION - THỰC HÀNH

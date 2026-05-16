@@ -1,3 +1,5 @@
+package GiaiDoan00_ChuanBiMoiTruong;
+
 /**
  * ============================================================
  * GIAI ĐOẠN 0: CHUẨN BỊ MÔI TRƯỜNG - THỰC HÀNH

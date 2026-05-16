@@ -1,3 +1,5 @@
+package GiaiDoan15_Maven_UnitTest_CleanCode;
+
 /**
  * ============================================================
  * GIAI ĐOẠN 15: MAVEN, UNIT TEST, CLEAN CODE - THỰC HÀNH

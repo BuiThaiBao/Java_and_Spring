@@ -1,4 +1,4 @@
-package com.example.demo;
+package Spring_GiaiDoan07_Security_JWT;
 
 /**
  * SPRING BOOT - GIAI ĐOẠN 7: SPRING SECURITY & JWT - THỰC HÀNH

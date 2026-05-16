@@ -1,4 +1,4 @@
-package com.example.demo;
+package Spring_GiaiDoan10_Docker_Deploy_Redis;
 
 /**
  * SPRING BOOT - GIAI ĐOẠN 10: DOCKER, DEPLOY, REDIS - THỰC HÀNH

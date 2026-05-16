@@ -1,3 +1,5 @@
+package GiaiDoan01_JavaSyntaxCoBan;
+
 import java.util.Scanner;
 
 /**

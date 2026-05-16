@@ -1,3 +1,5 @@
+package GiaiDoan08_Lambda_FunctionalProgramming;
+
 import java.util.*;
 import java.util.function.*;
 

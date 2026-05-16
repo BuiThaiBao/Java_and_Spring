@@ -1,4 +1,4 @@
-package com.example.demo;
+package Spring_GiaiDoan08_Upload_Email_Config;
 
 /**
  * SPRING BOOT - GIAI ĐOẠN 8: UPLOAD, EMAIL, CONFIG - THỰC HÀNH

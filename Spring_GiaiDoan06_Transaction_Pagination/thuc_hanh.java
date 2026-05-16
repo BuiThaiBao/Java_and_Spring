@@ -1,4 +1,4 @@
-package com.example.demo;
+package Spring_GiaiDoan06_Transaction_Pagination;
 
 /**
  * SPRING BOOT - GIAI ĐOẠN 6: TRANSACTION & PAGINATION - THỰC HÀNH

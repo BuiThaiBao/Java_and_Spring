@@ -1,4 +1,4 @@
-package com.example.demo;
+package Spring_GiaiDoan05_JPA_Database;
 
 /**
  * ============================================================

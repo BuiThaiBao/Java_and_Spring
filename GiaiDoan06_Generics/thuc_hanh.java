@@ -1,3 +1,5 @@
+package GiaiDoan06_Generics;
+
 import java.util.*;
 
 /**

@@ -1,4 +1,4 @@
-package com.example.demo;
+package Spring_GiaiDoan09_Testing_Swagger;
 
 /**
  * SPRING BOOT - GIAI ĐOẠN 9: TESTING & SWAGGER - THỰC HÀNH
